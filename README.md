@@ -120,9 +120,10 @@ Merge this feature pull request so that you can open the release pull request as
 <details id=3>
 <summary><h2>Step 3: Open a release pull request</h2></summary>
 
-### Release branches and `main`
+### Release branches and `main` 发布分支和'main'
 
 You should open a pull request between your release branch and main as early as possible. It might be open for a long time, and that's okay.
+您应该尽早在您的发布分支和 main 之间打开一个 pull 请求。可能会开很长时间，没关系。
 
 In general, the pull request description can include:
 - A [reference to an issue](https://docs.github.com/en/articles/basic-writing-and-formatting-syntax/#mentioning-people-and-teams) that the pull request addresses.
